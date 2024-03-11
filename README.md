@@ -48,4 +48,6 @@ With **`DEBUG = 1`** it will export in human readable Format
 p_cache = "i:\\prac\\lua_snimace\\vypis.txt"
 ```
 ## Usage/Examples
-
+```lua
+lua5.1.exe probe2csv.lua
+```
